@@ -25,61 +25,58 @@ The [NAO Index](https://www.psl.noaa.gov/data/correlation/nao.data) is the month
 ## Results and Codes
 
 ### Functions
-I created a set of function for doing several common tasks that are used throughout my analysis,  including:
+I created a set of functions in `clim_utils.py` for doing common tasks used throughout my analysis, including:
 * Labelling plots
 * calculating climatology and anomalies
-* etc
-They are located in XXXXX.py.
+* etc.
+
 
 ### Conda Environment
 
-The `enviornment.yml` file provides the environment to run all codes.
+The `environment.yml` file is provided to define the environment needed to run all codes.
 
 ### Figures
 
 The figures from my notebooks are saved in the `figs` subdirectory and shown in my notebooks.
 
-
 ### My Analysis and Notebooks
  
 1. Calculate climatology of my datasets
 
+Link to notebook and describe results
+
 2. Calculate anomalies of my datasets
+
+Link to notebook and describe results
 
 3. Calculate the Nino3.4 index
 
+Link to notebook and describe results
+
 4. Calculate Composites
 
-Global Temperture and Precipitation
-
-CONUS Temperature and Precipitation
+Link to notebook and describe results
 
 5. Calculate the Mean Difference between Composites with Significance
 
-Global Temperture and Precipitation
-
-CONUS Temperature and Precipitation
+Link to notebook and describe results
 
 6. Calculate and compare Composites with NAO index  
 
-Global Temperature and Precipitation
-
-CONUS Temperature and Precipitation
+Link to notebook and describe results
 
 7. Correlation of ENSO Composites for two time periods
 
-Has the ENSO Composite changed?
-
-Global Temperature and Precipitation
-
-CONUS Temperature and Precipitation
+Link to notebook and describe results
 
 8. Regression of Nino3.4 with Temperature and Precipitation
 
-Global Temperature and Precipitation
+Link to notebook and describe results
 
-CONUS Temperature and Precipitation
+9. EOFs of monsthly SSTs
+
+Link to notebook and describe results
 
 ## Summary
 
-
+Provide short summary of what you learned from your analysis of your data (both scientific and technical), what you plan to do next, and any challenges or issues you encountered/overcame. 
