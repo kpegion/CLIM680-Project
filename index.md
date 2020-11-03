@@ -1,19 +1,26 @@
-# Exploring the Relationship between ENSO and temperature and preciptiation patterns. 
+# The relationship between ENSO and temperature and preciptiation patterns 
  
 ## Kathy Pegion
 
 ## Introduction
 
-My CLIM 680 project investigates the relationship between the El Nino Southern Oscillation and temperature and precipitation.  I choose this topic because it has been widely explored and written about in the scientific literature, but I wanted to see for myself.  I also explored the relationship between temperature and precipitation with another climate index, the NAO for comparison.
+My CLIM 680 project investigates the relationship between the El Nino Southern Oscillation and temperature and precipitation.  I choose this topic because it has been widely explored and written about in the scientific literature, but I wanted to see these relationships for myself.  I also explored the relationship between temperature and precipitation with another climate index, the NAO, for comparison.
 
 ## Data
 
 The datasets used in my project are:
 
-1. NOAA/OISST
-2. GPCP Precipitation
-3. CPC Temperature
-4. NAO Index
+__NOAA/OISST__
+The [NOAA/OISST]( https://kpegion.github.io/COLA-DATASETS-CATALOG/sst.mnmean.nc) dataset is monthly, global sea surface temperature data from Dec, 1981 to Apr, 2020. It has horizontal resoluiton of 1deg longitude by 1deg latitude.
+ 
+__GPCP Precipitation__
+The [GPCP precipitation](https://kpegion.github.io/COLA-DATASETS-CATALOG/gpcp_precip.mon.mean.nc) is monthly global precipitation from Jan 1979 to Apr 2020. It is on a 2.5 deg longitude by 2.5 deg latitude gride.
+
+__GHCN_CAMS__
+The [GHCN_CAMS](https://kpegion.github.io/COLA-DATASETS-CATALOG/ghcn_cams) is a global, land-only, monthly temperature datasets from Jan 1948 to Mar 2020.  It is on a 0.5 deg longitude by 0.5 deg latitude grid.
+
+__NAO Index__
+The [NAO Index](https://www.psl.noaa.gov/data/correlation/nao.data) is the monthly CPC index, provided by NOAA/ESRL/PSL. It is located on the COLA servers in `/shared/ccsm4/kpegion/obs2/CLIM_INDICES/nao.data`. 
 
 ## Results and Codes
 
