@@ -1,4 +1,6 @@
-# CLIM 680-Project: Kathy Pegion
+# Exploring the Relationship between ENSO and temperature and preciptiation patterns. 
+ 
+## Kathy Pegion
 
 ## Introduction
 
