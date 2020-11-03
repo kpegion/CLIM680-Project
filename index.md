@@ -41,41 +41,43 @@ The figures from my notebooks are saved in the `figs` subdirectory and shown in 
 
 ### Analyses and Notebooks
  
-1. Annual Mean  
-
-2. Climatology
+#### Annual Mean  
 
 Link to notebook and describe results
 
-3. Calculate anomalies of my datasets
+#### Climatology
 
 Link to notebook and describe results
 
-4. Calculate the Nino3.4 index
+#### Anomalies
 
 Link to notebook and describe results
 
-5. Calculate Composites
+#### Calculate the Nino3.4 index
 
 Link to notebook and describe results
 
-6. Calculate the Mean Difference between Composites with Significance
+#### Calculate Composites
 
 Link to notebook and describe results
 
-7. Calculate and compare Composites with NAO index  
+####  Calculate the Mean Difference between Composites with Significance
 
 Link to notebook and describe results
 
-8. Correlation of ENSO Composites for two time periods
+#### Calculate and compare Composites with NAO index  
 
 Link to notebook and describe results
 
-9. Regression of Nino3.4 with Temperature and Precipitation
+#### Correlation of ENSO Composites for two time periods
 
 Link to notebook and describe results
 
-10. EOFs of monsthly SSTs
+#### Regression of Nino3.4 with Temperature and Precipitation
+
+Link to notebook and describe results
+
+#### EOFs of monsthly SSTs
 
 Link to notebook and describe results
 
