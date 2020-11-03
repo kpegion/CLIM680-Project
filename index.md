@@ -39,7 +39,7 @@ The `environment.yml` file is provided to define the environment needed to run a
 
 The figures from my notebooks are saved in the `figs` subdirectory and shown in my notebooks.
 
-### My Analysis and Notebooks
+### Analyses and Notebooks
  
 1. Annual Mean  
 
