@@ -33,7 +33,7 @@ I created a set of functions in `clim_utils.py` for doing common tasks used thro
 
 ### Conda Environment
 
-The `environment.yml` file is provided to define the environment needed to run all codes.
+The environment.yml file is provided to define the environment needed to run all codes.
 
 ### Figures
 
